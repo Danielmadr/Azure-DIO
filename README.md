@@ -1,37 +1,109 @@
 # Azure-SensitiveAnalysis-Learning
 
-Este repositório contém uma análise exploratória de um pequeno dataset relacionado à avaliação de uma cafeteria fictícia. Utilizando as ferramentas do **Azure Portal**, o objetivo é realizar a ingestão, processamento e visualização dos dados para identificar padrões e gerar insights valiosos para melhorar o atendimento e a experiência do cliente.
+Este repositório contém uma análise exploratória de avaliações de clientes de uma cafeteria fictícia. Utilizando as ferramentas do **Azure Portal**, o objetivo é realizar a ingestão, processamento e visualização dos dados para identificar padrões e gerar insights valiosos para melhorar o atendimento e a experiência do cliente.  A análise de sentimento é realizada com o Serviço de Linguagem do Azure.
 
 ## Ferramentas Utilizadas
-- **Azure AI + Machine Learning**: para treinamento e aplicação de modelos preditivos.
-- **Azure Synapse Analytics**: para processamento de grandes volumes de dados.
-- **Power BI**: para visualização interativa dos dados e resultados.
-- **Azure Data Factory**: para integração e transformação de dados.
+
+- **Azure AI + Machine Learning**:  Especificamente o **Serviço de Linguagem**, usado para análise de sentimento das avaliações.
 
 ## Objetivos do Projeto
-O objetivo deste projeto é demonstrar como utilizar os serviços do Azure para análise de dados de uma forma acessível e eficaz, com foco em um caso de uso prático e simples.
 
-### Etapas Realizadas:
-1. **Ingestão de Dados**: Importação do dataset da cafeteria para o ambiente Azure.
-2. **Pré-processamento**: Limpeza e transformação dos dados para análise.
-3. **Análise Exploratória**: Identificação de padrões e tendências no comportamento dos clientes da cafeteria.
+Demonstrar como utilizar os serviços do Azure, em particular o Serviço de Linguagem, para análise de sentimento de avaliações de clientes de uma cafeteria,  identificando áreas de melhoria no atendimento e experiência do cliente.
+
+## Dataset
+
+O projeto utiliza um pequeno dataset contendo avaliações de clientes sobre diferentes tipos de bebidas. Cada avaliação inclui o tipo de bebida e o comentário do cliente.
+
+## Processamento de Dados
+
+O Serviço de Linguagem do Azure é utilizado para realizar a análise de sentimento de cada avaliação. O serviço retorna a pontuação de sentimento (positivo, neutro ou negativo) e a confiança para cada sentimento.
+
+## Resultados da Análise de Sentimento
+
+A análise de sentimento das 75 avaliações processadas revela os seguintes insights:
+
+* **Sentimento Geral:** Predominantemente positivo, mas com alguns comentários negativos e neutros que merecem atenção.
+* **Principais Pontos Positivos:**  "Sabor maravilhoso", "Perfeito para a manhã", "Melhor bebida que já experimentei", "Qualidade do leite excelente".
+* **Principais Pontos Negativos:** "Café amargo demais", "Espuma rala", "Muito quente, quase queimei a língua".
+* **Sugestão de Melhoria:**  A recorrência do comentário "Refrescante, mas poderia ser mais doce" sugere a necessidade de avaliar o nível de açúcar oferecido como padrão para algumas bebidas.  Os comentários sobre o café amargo e a espuma rala indicam a necessidade de revisar a qualidade do café e o preparo de bebidas com espuma.  A temperatura excessiva em alguns cafés também merece atenção.
+
+Aqui está uma análise dos sentimentos nos comentários sobre bebidas, resumida em tabelas e gráficos em Markdown.
+
+### **Distribuição Geral dos Sentimentos**
+| Sentimento  | Quantidade | Percentual (%) |
+|------------|------------|----------------|
+| Positivo   | 73         | 79.35%         |
+| Neutro     | 1          | 1.09%          |
+| Negativo   | 18         | 19.56%         |
+| **Total**  | 92         | 100%           |
+
+### **Sentimento por Tipo de Bebida**
+| Bebida         | Positivo | Neutro | Negativo | Total |
+|---------------|---------|--------|---------|-------|
+| Flat White    | 7       | 0      | 3       | 10    |
+| Frappuccino   | 8       | 0      | 3       | 11    |
+| Macchiato     | 6       | 0      | 1       | 7     |
+| Café Gelado   | 6       | 0      | 0       | 6     |
+| Latte         | 7       | 0      | 2       | 9     |
+| Cappuccino    | 7       | 0      | 1       | 8     |
+| Café Expresso | 3       | 1      | 4       | 8     |
+| Americano     | 5       | 0      | 3       | 8     |
+| Café com Leite| 5       | 0      | 2       | 7     |
+| Mocha         | 4       | 0      | 2       | 6     |
+
+---
+
+### **Gráfico de Barras - Sentimento por Tipo de Bebida**
+
+```mermaid
+---
+config:
+    xyChart:
+        chartOrientation: 'horizontal'
+---
+xychart-beta
+    title "Sentimentos por Tipo de Bebida"
+    x-axis ["Flat White", "Frappuccino", "Macchiato", "Café Gelado", "Latte", "Cappuccino", "Café Expresso", "Americano", "Café com Leite", "Mocha"]
+    y-axis "Quantidade"
+    bar "Positivo" [7, 8, 6, 6, 7, 7, 3, 5, 5, 4]
+    bar "Neutro" [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar "Negativo" [3, 3, 1, 0, 2, 1, 4, 3, 2, 2]
+
+```
+
+### **Insights da Análise**
+1. **Alta aceitação geral**: 79,35% das avaliações são positivas.
+2. **Bebida mais bem avaliada**: "Frappuccino" lidera em avaliações positivas (8).
+3. **Bebida com mais avaliações negativas**: "Café Expresso" teve 4 avaliações negativas, principalmente devido à espuma rala.
+4. **Bebida com maior equilíbrio**: "Americano" teve tanto avaliações positivas quanto negativas.
+5. **Reclamações frequentes**:
+   - "Muito quente, quase queimei a língua."
+   - "O café estava amargo demais para o meu gosto."
+   - "A espuma estava rala."
+
+### **Conclusão**
+A análise revela que a maioria das bebidas recebeu avaliações positivas, especialmente o "Frappuccino" e "Macchiato". No entanto, bebidas como "Café Expresso" e "Americano" tiveram críticas mais significativas relacionadas à textura e temperatura. Melhorias nesses aspectos podem aumentar ainda mais a satisfação dos consumidores.
+
+Se precisar de mais insights ou outra visualização, me avise! 🚀
 
 ## Prints dos Resultados
-Adicione links ou imagens abaixo para visualizar os resultados adquiridos:
 
-- **Visualização 1**: ![Resultado 1](link_para_imagem_1)  
-  *Descrição do que foi mostrado na visualização ou análise.*
+*tenho que Adicionar aqui os prints
 
 ## Como Executar o Projeto
 
 ### Pré-requisitos:
-- Conta no **Azure**.
-- Acesso ao **Azure Portal**.
+
+* Conta no **Azure**.
+* Acesso ao **Azure Portal**.
+* Recurso do **Serviço de Linguagem** criado no Azure.
+* Dataset de avaliações.
 
 ### Passos:
+
 1. Faça o login no **Azure Portal**.
-2. Acesse **IA + Machine Learning** para carregar o dataset.
-3. Utilize **Serviço de Linguagem** para processar os dados.
+2. Acesse o recurso do **Serviço de Linguagem**.
+3. Utilize a API de Análise de Sentimento do Serviço de Linguagem para processar o dataset..
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
