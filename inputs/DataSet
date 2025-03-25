@@ -1,0 +1,1001 @@
+id_cliente,produto,comentário
+1,Flat White,"Refrescante, mas poderia ser mais doce."
+2,Frappuccino,A melhor bebida que já experimentei!
+3,Frappuccino,"Refrescante, mas poderia ser mais doce."
+4,Macchiato,"Sabor suave, perfeito para a manhã."
+5,Flat White,"Sabor maravilhoso, com certeza voltarei."
+6,Café Gelado,"Refrescante, mas poderia ser mais doce."
+7,Frappuccino,"Refrescante, mas poderia ser mais doce."
+8,Café Gelado,"Sabor suave, perfeito para a manhã."
+9,Flat White,O café estava amargo demais para o meu gosto.
+10,Macchiato,"Refrescante, mas poderia ser mais doce."
+11,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+12,Latte,A melhor bebida que já experimentei!
+13,Latte,"Refrescante, mas poderia ser mais doce."
+14,Frappuccino,"Muito bom, mas poderia ser mais forte."
+15,Café com Leite,A qualidade do leite estava excelente.
+16,Americano,"Refrescante, mas poderia ser mais doce."
+17,Cappuccino,"Refrescante, mas poderia ser mais doce."
+18,Frappuccino,O café estava amargo demais para o meu gosto.
+19,Cappuccino,"Sabor suave, perfeito para a manhã."
+20,Café Gelado,A qualidade do leite estava excelente.
+21,Americano,"Amei o sabor, mas demorou um pouco."
+22,Latte,"Refrescante, mas poderia ser mais doce."
+23,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+24,Café com Leite,"Muito quente, quase queimei a língua."
+25,Latte,"Sabor suave, perfeito para a manhã."
+26,Café Gelado,A melhor bebida que já experimentei!
+27,Frappuccino,"Refrescante, mas poderia ser mais doce."
+28,Cappuccino,"Amei o sabor, mas demorou um pouco."
+29,Americano,"Ótimo sabor, mas a espuma estava rala."
+30,Americano,"Muito quente, quase queimei a língua."
+31,Mocha,"Sabor suave, perfeito para a manhã."
+32,Mocha,"Refrescante, mas poderia ser mais doce."
+33,Cappuccino,"Refrescante, mas poderia ser mais doce."
+34,Frappuccino,"Muito quente, quase queimei a língua."
+35,Frappuccino,A qualidade do leite estava excelente.
+36,Macchiato,"Amei o sabor, mas demorou um pouco."
+37,Café Gelado,"Amei o sabor, mas demorou um pouco."
+38,Flat White,A melhor bebida que já experimentei!
+39,Frappuccino,A qualidade do leite estava excelente.
+40,Flat White,"Muito bom, mas poderia ser mais forte."
+41,Café Expresso,O café estava amargo demais para o meu gosto.
+42,Café Expresso,O café estava amargo demais para o meu gosto.
+43,Americano,"Muito quente, quase queimei a língua."
+44,Café com Leite,"Refrescante, mas poderia ser mais doce."
+45,Latte,O café estava amargo demais para o meu gosto.
+46,Flat White,O café estava amargo demais para o meu gosto.
+47,Macchiato,"Amei o sabor, mas demorou um pouco."
+48,Café com Leite,"Refrescante, mas poderia ser mais doce."
+49,Americano,O café estava amargo demais para o meu gosto.
+50,Americano,"Sabor maravilhoso, com certeza voltarei."
+51,Café Gelado,A melhor bebida que já experimentei!
+52,Cappuccino,"Sabor suave, perfeito para a manhã."
+53,Frappuccino,"Sabor suave, perfeito para a manhã."
+54,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+55,Mocha,A melhor bebida que já experimentei!
+56,Americano,"Sabor maravilhoso, com certeza voltarei."
+57,Flat White,"Sabor maravilhoso, com certeza voltarei."
+58,Café Expresso,A melhor bebida que já experimentei!
+59,Mocha,A melhor bebida que já experimentei!
+60,Flat White,A qualidade do leite estava excelente.
+61,Latte,O café estava amargo demais para o meu gosto.
+62,Americano,"Sabor suave, perfeito para a manhã."
+63,Café Gelado,A qualidade do leite estava excelente.
+64,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+65,Americano,"Muito bom, mas poderia ser mais forte."
+66,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+67,Frappuccino,O café estava amargo demais para o meu gosto.
+68,Café Expresso,"Muito bom, mas poderia ser mais forte."
+69,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+70,Latte,"Muito quente, quase queimei a língua."
+71,Flat White,"Amei o sabor, mas demorou um pouco."
+72,Macchiato,A melhor bebida que já experimentei!
+73,Latte,A qualidade do leite estava excelente.
+74,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+75,Cappuccino,"Muito bom, mas poderia ser mais forte."
+76,Flat White,"Muito bom, mas poderia ser mais forte."
+77,Café Expresso,"Refrescante, mas poderia ser mais doce."
+78,Flat White,"Muito quente, quase queimei a língua."
+79,Flat White,"Amei o sabor, mas demorou um pouco."
+80,Frappuccino,O café estava amargo demais para o meu gosto.
+81,Flat White,"Muito quente, quase queimei a língua."
+82,Frappuccino,"Amei o sabor, mas demorou um pouco."
+83,Café com Leite,"Amei o sabor, mas demorou um pouco."
+84,Café com Leite,A melhor bebida que já experimentei!
+85,Latte,A qualidade do leite estava excelente.
+86,Latte,A melhor bebida que já experimentei!
+87,Americano,"Muito bom, mas poderia ser mais forte."
+88,Latte,A melhor bebida que já experimentei!
+89,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+90,Latte,"Amei o sabor, mas demorou um pouco."
+91,Mocha,O café estava amargo demais para o meu gosto.
+92,Latte,"Sabor maravilhoso, com certeza voltarei."
+93,Frappuccino,"Sabor maravilhoso, com certeza voltarei."
+94,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+95,Latte,"Sabor maravilhoso, com certeza voltarei."
+96,Café Gelado,"Ótimo sabor, mas a espuma estava rala."
+97,Café com Leite,A qualidade do leite estava excelente.
+98,Café Expresso,"Amei o sabor, mas demorou um pouco."
+99,Americano,"Sabor maravilhoso, com certeza voltarei."
+100,Cappuccino,A melhor bebida que já experimentei!
+101,Latte,"Muito quente, quase queimei a língua."
+102,Frappuccino,A qualidade do leite estava excelente.
+103,Latte,"Sabor maravilhoso, com certeza voltarei."
+104,Café Gelado,"Refrescante, mas poderia ser mais doce."
+105,Latte,A qualidade do leite estava excelente.
+106,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+107,Americano,"Refrescante, mas poderia ser mais doce."
+108,Café Gelado,"Sabor suave, perfeito para a manhã."
+109,Frappuccino,"Muito bom, mas poderia ser mais forte."
+110,Mocha,"Amei o sabor, mas demorou um pouco."
+111,Café Expresso,"Muito bom, mas poderia ser mais forte."
+112,Mocha,O café estava amargo demais para o meu gosto.
+113,Frappuccino,"Muito bom, mas poderia ser mais forte."
+114,Latte,A qualidade do leite estava excelente.
+115,Café Expresso,"Amei o sabor, mas demorou um pouco."
+116,Flat White,A melhor bebida que já experimentei!
+117,Cappuccino,"Amei o sabor, mas demorou um pouco."
+118,Café Gelado,"Sabor suave, perfeito para a manhã."
+119,Latte,"Muito quente, quase queimei a língua."
+120,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+121,Flat White,A qualidade do leite estava excelente.
+122,Macchiato,A qualidade do leite estava excelente.
+123,Mocha,"Sabor suave, perfeito para a manhã."
+124,Americano,"Refrescante, mas poderia ser mais doce."
+125,Americano,"Ótimo sabor, mas a espuma estava rala."
+126,Latte,"Muito bom, mas poderia ser mais forte."
+127,Latte,"Refrescante, mas poderia ser mais doce."
+128,Mocha,"Muito quente, quase queimei a língua."
+129,Macchiato,"Muito bom, mas poderia ser mais forte."
+130,Americano,"Ótimo sabor, mas a espuma estava rala."
+131,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+132,Latte,"Muito bom, mas poderia ser mais forte."
+133,Mocha,"Amei o sabor, mas demorou um pouco."
+134,Flat White,"Ótimo sabor, mas a espuma estava rala."
+135,Mocha,O café estava amargo demais para o meu gosto.
+136,Macchiato,A melhor bebida que já experimentei!
+137,Latte,"Sabor maravilhoso, com certeza voltarei."
+138,Macchiato,"Muito bom, mas poderia ser mais forte."
+139,Frappuccino,O café estava amargo demais para o meu gosto.
+140,Café com Leite,"Muito quente, quase queimei a língua."
+141,Frappuccino,A melhor bebida que já experimentei!
+142,Flat White,"Refrescante, mas poderia ser mais doce."
+143,Americano,"Refrescante, mas poderia ser mais doce."
+144,Americano,"Muito quente, quase queimei a língua."
+145,Macchiato,A qualidade do leite estava excelente.
+146,Flat White,"Refrescante, mas poderia ser mais doce."
+147,Mocha,O café estava amargo demais para o meu gosto.
+148,Americano,"Muito quente, quase queimei a língua."
+149,Café Gelado,"Sabor suave, perfeito para a manhã."
+150,Café Gelado,"Muito quente, quase queimei a língua."
+151,Café Expresso,A melhor bebida que já experimentei!
+152,Flat White,"Muito bom, mas poderia ser mais forte."
+153,Café com Leite,"Amei o sabor, mas demorou um pouco."
+154,Latte,"Muito bom, mas poderia ser mais forte."
+155,Macchiato,A qualidade do leite estava excelente.
+156,Café Expresso,"Muito bom, mas poderia ser mais forte."
+157,Frappuccino,"Amei o sabor, mas demorou um pouco."
+158,Cappuccino,"Muito bom, mas poderia ser mais forte."
+159,Café com Leite,"Amei o sabor, mas demorou um pouco."
+160,Americano,"Ótimo sabor, mas a espuma estava rala."
+161,Mocha,"Amei o sabor, mas demorou um pouco."
+162,Cappuccino,"Muito bom, mas poderia ser mais forte."
+163,Café Expresso,"Sabor suave, perfeito para a manhã."
+164,Café Gelado,"Refrescante, mas poderia ser mais doce."
+165,Frappuccino,A melhor bebida que já experimentei!
+166,Café Expresso,A qualidade do leite estava excelente.
+167,Macchiato,"Refrescante, mas poderia ser mais doce."
+168,Latte,A qualidade do leite estava excelente.
+169,Latte,"Refrescante, mas poderia ser mais doce."
+170,Frappuccino,O café estava amargo demais para o meu gosto.
+171,Café Gelado,A melhor bebida que já experimentei!
+172,Macchiato,"Sabor suave, perfeito para a manhã."
+173,Café Gelado,O café estava amargo demais para o meu gosto.
+174,Flat White,"Amei o sabor, mas demorou um pouco."
+175,Mocha,"Refrescante, mas poderia ser mais doce."
+176,Café Gelado,"Refrescante, mas poderia ser mais doce."
+177,Café com Leite,"Refrescante, mas poderia ser mais doce."
+178,Flat White,"Amei o sabor, mas demorou um pouco."
+179,Cappuccino,"Muito bom, mas poderia ser mais forte."
+180,Flat White,"Sabor suave, perfeito para a manhã."
+181,Frappuccino,"Amei o sabor, mas demorou um pouco."
+182,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+183,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+184,Americano,"Muito quente, quase queimei a língua."
+185,Café com Leite,"Amei o sabor, mas demorou um pouco."
+186,Macchiato,"Muito quente, quase queimei a língua."
+187,Americano,"Sabor suave, perfeito para a manhã."
+188,Flat White,"Refrescante, mas poderia ser mais doce."
+189,Latte,"Refrescante, mas poderia ser mais doce."
+190,Café Expresso,"Refrescante, mas poderia ser mais doce."
+191,Café Gelado,A melhor bebida que já experimentei!
+192,Café com Leite,A melhor bebida que já experimentei!
+193,Mocha,"Muito quente, quase queimei a língua."
+194,Latte,A melhor bebida que já experimentei!
+195,Macchiato,A qualidade do leite estava excelente.
+196,Americano,A melhor bebida que já experimentei!
+197,Latte,"Sabor suave, perfeito para a manhã."
+198,Café com Leite,A qualidade do leite estava excelente.
+199,Cappuccino,"Sabor suave, perfeito para a manhã."
+200,Café Gelado,"Muito quente, quase queimei a língua."
+201,Café Expresso,"Sabor suave, perfeito para a manhã."
+202,Macchiato,"Amei o sabor, mas demorou um pouco."
+203,Latte,O café estava amargo demais para o meu gosto.
+204,Café Gelado,O café estava amargo demais para o meu gosto.
+205,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+206,Café Gelado,"Amei o sabor, mas demorou um pouco."
+207,Macchiato,"Refrescante, mas poderia ser mais doce."
+208,Mocha,"Refrescante, mas poderia ser mais doce."
+209,Café Gelado,"Ótimo sabor, mas a espuma estava rala."
+210,Mocha,"Muito bom, mas poderia ser mais forte."
+211,Café Expresso,"Muito bom, mas poderia ser mais forte."
+212,Frappuccino,A melhor bebida que já experimentei!
+213,Latte,"Muito quente, quase queimei a língua."
+214,Mocha,"Sabor suave, perfeito para a manhã."
+215,Americano,"Muito quente, quase queimei a língua."
+216,Cappuccino,O café estava amargo demais para o meu gosto.
+217,Mocha,"Refrescante, mas poderia ser mais doce."
+218,Americano,"Muito bom, mas poderia ser mais forte."
+219,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+220,Café Gelado,"Muito bom, mas poderia ser mais forte."
+221,Americano,"Refrescante, mas poderia ser mais doce."
+222,Macchiato,"Amei o sabor, mas demorou um pouco."
+223,Latte,"Amei o sabor, mas demorou um pouco."
+224,Latte,A melhor bebida que já experimentei!
+225,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+226,Latte,"Sabor maravilhoso, com certeza voltarei."
+227,Café com Leite,A qualidade do leite estava excelente.
+228,Café Gelado,"Amei o sabor, mas demorou um pouco."
+229,Latte,"Muito bom, mas poderia ser mais forte."
+230,Latte,"Sabor maravilhoso, com certeza voltarei."
+231,Mocha,O café estava amargo demais para o meu gosto.
+232,Latte,"Muito bom, mas poderia ser mais forte."
+233,Mocha,"Muito bom, mas poderia ser mais forte."
+234,Latte,"Ótimo sabor, mas a espuma estava rala."
+235,Flat White,"Amei o sabor, mas demorou um pouco."
+236,Macchiato,"Refrescante, mas poderia ser mais doce."
+237,Americano,O café estava amargo demais para o meu gosto.
+238,Frappuccino,A melhor bebida que já experimentei!
+239,Mocha,"Muito quente, quase queimei a língua."
+240,Café Gelado,A qualidade do leite estava excelente.
+241,Café Expresso,"Muito quente, quase queimei a língua."
+242,Café Expresso,"Refrescante, mas poderia ser mais doce."
+243,Cappuccino,"Sabor suave, perfeito para a manhã."
+244,Café com Leite,"Sabor suave, perfeito para a manhã."
+245,Latte,"Sabor maravilhoso, com certeza voltarei."
+246,Americano,"Sabor suave, perfeito para a manhã."
+247,Café com Leite,"Amei o sabor, mas demorou um pouco."
+248,Macchiato,"Refrescante, mas poderia ser mais doce."
+249,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+250,Latte,"Sabor maravilhoso, com certeza voltarei."
+251,Cappuccino,"Amei o sabor, mas demorou um pouco."
+252,Café Expresso,A melhor bebida que já experimentei!
+253,Macchiato,"Muito quente, quase queimei a língua."
+254,Flat White,"Sabor maravilhoso, com certeza voltarei."
+255,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+256,Mocha,A qualidade do leite estava excelente.
+257,Flat White,A melhor bebida que já experimentei!
+258,Americano,"Amei o sabor, mas demorou um pouco."
+259,Latte,"Sabor maravilhoso, com certeza voltarei."
+260,Café Expresso,"Amei o sabor, mas demorou um pouco."
+261,Café com Leite,A qualidade do leite estava excelente.
+262,Mocha,"Refrescante, mas poderia ser mais doce."
+263,Flat White,"Refrescante, mas poderia ser mais doce."
+264,Café com Leite,"Amei o sabor, mas demorou um pouco."
+265,Latte,"Refrescante, mas poderia ser mais doce."
+266,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+267,Café Gelado,A qualidade do leite estava excelente.
+268,Frappuccino,O café estava amargo demais para o meu gosto.
+269,Frappuccino,"Muito quente, quase queimei a língua."
+270,Macchiato,O café estava amargo demais para o meu gosto.
+271,Café Gelado,"Ótimo sabor, mas a espuma estava rala."
+272,Mocha,"Sabor suave, perfeito para a manhã."
+273,Mocha,"Muito bom, mas poderia ser mais forte."
+274,Mocha,"Refrescante, mas poderia ser mais doce."
+275,Café com Leite,A qualidade do leite estava excelente.
+276,Latte,A qualidade do leite estava excelente.
+277,Cappuccino,A melhor bebida que já experimentei!
+278,Americano,"Muito quente, quase queimei a língua."
+279,Latte,"Sabor suave, perfeito para a manhã."
+280,Café com Leite,"Refrescante, mas poderia ser mais doce."
+281,Mocha,"Muito bom, mas poderia ser mais forte."
+282,Cappuccino,"Muito bom, mas poderia ser mais forte."
+283,Frappuccino,A melhor bebida que já experimentei!
+284,Flat White,O café estava amargo demais para o meu gosto.
+285,Café Gelado,"Ótimo sabor, mas a espuma estava rala."
+286,Café com Leite,A melhor bebida que já experimentei!
+287,Latte,"Ótimo sabor, mas a espuma estava rala."
+288,Café Gelado,"Sabor suave, perfeito para a manhã."
+289,Frappuccino,"Amei o sabor, mas demorou um pouco."
+290,Café Expresso,A melhor bebida que já experimentei!
+291,Macchiato,"Sabor suave, perfeito para a manhã."
+292,Frappuccino,"Sabor suave, perfeito para a manhã."
+293,Americano,"Muito bom, mas poderia ser mais forte."
+294,Latte,A qualidade do leite estava excelente.
+295,Mocha,"Muito bom, mas poderia ser mais forte."
+296,Mocha,"Amei o sabor, mas demorou um pouco."
+297,Mocha,"Refrescante, mas poderia ser mais doce."
+298,Flat White,"Sabor maravilhoso, com certeza voltarei."
+299,Café com Leite,"Refrescante, mas poderia ser mais doce."
+300,Latte,"Ótimo sabor, mas a espuma estava rala."
+301,Café com Leite,"Muito bom, mas poderia ser mais forte."
+302,Mocha,"Amei o sabor, mas demorou um pouco."
+303,Cappuccino,"Refrescante, mas poderia ser mais doce."
+304,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+305,Mocha,"Muito quente, quase queimei a língua."
+306,Frappuccino,"Amei o sabor, mas demorou um pouco."
+307,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+308,Latte,"Sabor suave, perfeito para a manhã."
+309,Flat White,O café estava amargo demais para o meu gosto.
+310,Flat White,"Refrescante, mas poderia ser mais doce."
+311,Americano,"Ótimo sabor, mas a espuma estava rala."
+312,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+313,Latte,"Muito bom, mas poderia ser mais forte."
+314,Café Gelado,A melhor bebida que já experimentei!
+315,Macchiato,"Refrescante, mas poderia ser mais doce."
+316,Mocha,"Sabor maravilhoso, com certeza voltarei."
+317,Mocha,A qualidade do leite estava excelente.
+318,Flat White,"Sabor suave, perfeito para a manhã."
+319,Frappuccino,A qualidade do leite estava excelente.
+320,Cappuccino,O café estava amargo demais para o meu gosto.
+321,Café Gelado,O café estava amargo demais para o meu gosto.
+322,Café Gelado,"Ótimo sabor, mas a espuma estava rala."
+323,Café com Leite,"Refrescante, mas poderia ser mais doce."
+324,Latte,"Sabor maravilhoso, com certeza voltarei."
+325,Americano,"Muito quente, quase queimei a língua."
+326,Café Gelado,A melhor bebida que já experimentei!
+327,Café com Leite,"Refrescante, mas poderia ser mais doce."
+328,Macchiato,"Muito quente, quase queimei a língua."
+329,Café Expresso,O café estava amargo demais para o meu gosto.
+330,Flat White,A qualidade do leite estava excelente.
+331,Mocha,"Muito quente, quase queimei a língua."
+332,Cappuccino,"Sabor suave, perfeito para a manhã."
+333,Macchiato,"Sabor suave, perfeito para a manhã."
+334,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+335,Latte,"Muito bom, mas poderia ser mais forte."
+336,Cappuccino,"Sabor suave, perfeito para a manhã."
+337,Café com Leite,"Sabor suave, perfeito para a manhã."
+338,Latte,"Sabor suave, perfeito para a manhã."
+339,Frappuccino,"Refrescante, mas poderia ser mais doce."
+340,Cappuccino,"Amei o sabor, mas demorou um pouco."
+341,Flat White,"Refrescante, mas poderia ser mais doce."
+342,Frappuccino,"Refrescante, mas poderia ser mais doce."
+343,Frappuccino,"Muito bom, mas poderia ser mais forte."
+344,Café Expresso,O café estava amargo demais para o meu gosto.
+345,Latte,O café estava amargo demais para o meu gosto.
+346,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+347,Macchiato,"Amei o sabor, mas demorou um pouco."
+348,Macchiato,A qualidade do leite estava excelente.
+349,Café com Leite,"Muito quente, quase queimei a língua."
+350,Café Expresso,"Sabor suave, perfeito para a manhã."
+351,Cappuccino,"Sabor suave, perfeito para a manhã."
+352,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+353,Cappuccino,"Ótimo sabor, mas a espuma estava rala."
+354,Frappuccino,A melhor bebida que já experimentei!
+355,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+356,Mocha,A qualidade do leite estava excelente.
+357,Flat White,O café estava amargo demais para o meu gosto.
+358,Mocha,"Sabor maravilhoso, com certeza voltarei."
+359,Latte,A melhor bebida que já experimentei!
+360,Flat White,"Sabor suave, perfeito para a manhã."
+361,Macchiato,"Muito bom, mas poderia ser mais forte."
+362,Café Expresso,"Muito quente, quase queimei a língua."
+363,Cappuccino,"Muito bom, mas poderia ser mais forte."
+364,Frappuccino,O café estava amargo demais para o meu gosto.
+365,Cappuccino,"Muito bom, mas poderia ser mais forte."
+366,Café Gelado,"Muito quente, quase queimei a língua."
+367,Flat White,"Muito quente, quase queimei a língua."
+368,Latte,"Amei o sabor, mas demorou um pouco."
+369,Americano,O café estava amargo demais para o meu gosto.
+370,Café Expresso,"Muito bom, mas poderia ser mais forte."
+371,Café Expresso,A melhor bebida que já experimentei!
+372,Frappuccino,"Sabor suave, perfeito para a manhã."
+373,Mocha,"Refrescante, mas poderia ser mais doce."
+374,Americano,"Muito quente, quase queimei a língua."
+375,Latte,"Muito bom, mas poderia ser mais forte."
+376,Frappuccino,A qualidade do leite estava excelente.
+377,Frappuccino,A qualidade do leite estava excelente.
+378,Latte,"Muito quente, quase queimei a língua."
+379,Latte,"Sabor maravilhoso, com certeza voltarei."
+380,Latte,"Muito quente, quase queimei a língua."
+381,Macchiato,O café estava amargo demais para o meu gosto.
+382,Americano,"Amei o sabor, mas demorou um pouco."
+383,Café Expresso,"Amei o sabor, mas demorou um pouco."
+384,Frappuccino,A melhor bebida que já experimentei!
+385,Mocha,"Amei o sabor, mas demorou um pouco."
+386,Macchiato,O café estava amargo demais para o meu gosto.
+387,Café com Leite,"Muito bom, mas poderia ser mais forte."
+388,Cappuccino,"Muito quente, quase queimei a língua."
+389,Café Expresso,"Muito quente, quase queimei a língua."
+390,Café Expresso,A melhor bebida que já experimentei!
+391,Macchiato,O café estava amargo demais para o meu gosto.
+392,Flat White,A qualidade do leite estava excelente.
+393,Cappuccino,A qualidade do leite estava excelente.
+394,Americano,"Muito bom, mas poderia ser mais forte."
+395,Cappuccino,A qualidade do leite estava excelente.
+396,Americano,A melhor bebida que já experimentei!
+397,Americano,"Muito bom, mas poderia ser mais forte."
+398,Café Gelado,"Muito quente, quase queimei a língua."
+399,Flat White,"Refrescante, mas poderia ser mais doce."
+400,Cappuccino,"Refrescante, mas poderia ser mais doce."
+401,Cappuccino,O café estava amargo demais para o meu gosto.
+402,Americano,"Muito quente, quase queimei a língua."
+403,Café Gelado,"Sabor suave, perfeito para a manhã."
+404,Café Expresso,O café estava amargo demais para o meu gosto.
+405,Latte,"Sabor maravilhoso, com certeza voltarei."
+406,Cappuccino,O café estava amargo demais para o meu gosto.
+407,Frappuccino,A qualidade do leite estava excelente.
+408,Latte,"Ótimo sabor, mas a espuma estava rala."
+409,Latte,A melhor bebida que já experimentei!
+410,Americano,"Refrescante, mas poderia ser mais doce."
+411,Latte,"Sabor maravilhoso, com certeza voltarei."
+412,Latte,"Muito bom, mas poderia ser mais forte."
+413,Latte,"Refrescante, mas poderia ser mais doce."
+414,Flat White,A qualidade do leite estava excelente.
+415,Macchiato,"Muito bom, mas poderia ser mais forte."
+416,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+417,Café com Leite,O café estava amargo demais para o meu gosto.
+418,Café Gelado,"Sabor suave, perfeito para a manhã."
+419,Macchiato,"Muito bom, mas poderia ser mais forte."
+420,Americano,A melhor bebida que já experimentei!
+421,Latte,"Amei o sabor, mas demorou um pouco."
+422,Latte,O café estava amargo demais para o meu gosto.
+423,Macchiato,"Refrescante, mas poderia ser mais doce."
+424,Café Gelado,"Refrescante, mas poderia ser mais doce."
+425,Americano,A melhor bebida que já experimentei!
+426,Cappuccino,A melhor bebida que já experimentei!
+427,Café Gelado,A melhor bebida que já experimentei!
+428,Café Gelado,"Sabor suave, perfeito para a manhã."
+429,Frappuccino,A qualidade do leite estava excelente.
+430,Flat White,"Ótimo sabor, mas a espuma estava rala."
+431,Flat White,"Refrescante, mas poderia ser mais doce."
+432,Café com Leite,"Refrescante, mas poderia ser mais doce."
+433,Americano,"Refrescante, mas poderia ser mais doce."
+434,Americano,"Muito quente, quase queimei a língua."
+435,Café Expresso,"Muito bom, mas poderia ser mais forte."
+436,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+437,Americano,"Refrescante, mas poderia ser mais doce."
+438,Cappuccino,A qualidade do leite estava excelente.
+439,Macchiato,"Muito bom, mas poderia ser mais forte."
+440,Macchiato,"Refrescante, mas poderia ser mais doce."
+441,Americano,"Sabor maravilhoso, com certeza voltarei."
+442,Americano,"Sabor maravilhoso, com certeza voltarei."
+443,Flat White,"Sabor suave, perfeito para a manhã."
+444,Café com Leite,"Muito bom, mas poderia ser mais forte."
+445,Macchiato,"Amei o sabor, mas demorou um pouco."
+446,Café Gelado,"Amei o sabor, mas demorou um pouco."
+447,Cappuccino,"Amei o sabor, mas demorou um pouco."
+448,Americano,"Sabor suave, perfeito para a manhã."
+449,Latte,A qualidade do leite estava excelente.
+450,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+451,Café Gelado,O café estava amargo demais para o meu gosto.
+452,Frappuccino,"Sabor suave, perfeito para a manhã."
+453,Cappuccino,"Muito bom, mas poderia ser mais forte."
+454,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+455,Flat White,"Refrescante, mas poderia ser mais doce."
+456,Café Gelado,"Refrescante, mas poderia ser mais doce."
+457,Café Gelado,O café estava amargo demais para o meu gosto.
+458,Café com Leite,"Amei o sabor, mas demorou um pouco."
+459,Café Expresso,"Sabor suave, perfeito para a manhã."
+460,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+461,Cappuccino,O café estava amargo demais para o meu gosto.
+462,Latte,A melhor bebida que já experimentei!
+463,Cappuccino,"Muito quente, quase queimei a língua."
+464,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+465,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+466,Café Gelado,"Muito quente, quase queimei a língua."
+467,Latte,A qualidade do leite estava excelente.
+468,Macchiato,A qualidade do leite estava excelente.
+469,Café Expresso,A qualidade do leite estava excelente.
+470,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+471,Latte,"Sabor maravilhoso, com certeza voltarei."
+472,Macchiato,"Muito quente, quase queimei a língua."
+473,Americano,"Sabor suave, perfeito para a manhã."
+474,Café Gelado,A melhor bebida que já experimentei!
+475,Flat White,"Refrescante, mas poderia ser mais doce."
+476,Café Expresso,"Muito bom, mas poderia ser mais forte."
+477,Frappuccino,"Refrescante, mas poderia ser mais doce."
+478,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+479,Cappuccino,"Sabor suave, perfeito para a manhã."
+480,Latte,O café estava amargo demais para o meu gosto.
+481,Latte,"Refrescante, mas poderia ser mais doce."
+482,Frappuccino,A qualidade do leite estava excelente.
+483,Cappuccino,"Refrescante, mas poderia ser mais doce."
+484,Macchiato,"Sabor suave, perfeito para a manhã."
+485,Flat White,A qualidade do leite estava excelente.
+486,Café com Leite,"Muito quente, quase queimei a língua."
+487,Flat White,"Muito bom, mas poderia ser mais forte."
+488,Frappuccino,"Muito bom, mas poderia ser mais forte."
+489,Café Gelado,"Sabor suave, perfeito para a manhã."
+490,Café Expresso,O café estava amargo demais para o meu gosto.
+491,Mocha,"Muito quente, quase queimei a língua."
+492,Cappuccino,"Sabor suave, perfeito para a manhã."
+493,Café Expresso,"Amei o sabor, mas demorou um pouco."
+494,Café Expresso,A melhor bebida que já experimentei!
+495,Americano,"Muito bom, mas poderia ser mais forte."
+496,Americano,O café estava amargo demais para o meu gosto.
+497,Café com Leite,"Amei o sabor, mas demorou um pouco."
+498,Macchiato,"Refrescante, mas poderia ser mais doce."
+499,Flat White,"Sabor maravilhoso, com certeza voltarei."
+500,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+501,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+502,Café com Leite,A melhor bebida que já experimentei!
+503,Latte,A melhor bebida que já experimentei!
+504,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+505,Americano,"Muito bom, mas poderia ser mais forte."
+506,Café Gelado,A melhor bebida que já experimentei!
+507,Latte,"Amei o sabor, mas demorou um pouco."
+508,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+509,Flat White,"Refrescante, mas poderia ser mais doce."
+510,Frappuccino,"Muito bom, mas poderia ser mais forte."
+511,Cappuccino,A qualidade do leite estava excelente.
+512,Americano,"Muito quente, quase queimei a língua."
+513,Café Expresso,A melhor bebida que já experimentei!
+514,Café Gelado,"Sabor suave, perfeito para a manhã."
+515,Americano,"Amei o sabor, mas demorou um pouco."
+516,Café com Leite,"Muito bom, mas poderia ser mais forte."
+517,Café Expresso,A melhor bebida que já experimentei!
+518,Mocha,A melhor bebida que já experimentei!
+519,Café com Leite,"Refrescante, mas poderia ser mais doce."
+520,Cappuccino,A melhor bebida que já experimentei!
+521,Mocha,"Ótimo sabor, mas a espuma estava rala."
+522,Mocha,A melhor bebida que já experimentei!
+523,Frappuccino,"Refrescante, mas poderia ser mais doce."
+524,Café Expresso,"Muito bom, mas poderia ser mais forte."
+525,Cappuccino,"Muito bom, mas poderia ser mais forte."
+526,Frappuccino,"Muito quente, quase queimei a língua."
+527,Cappuccino,"Amei o sabor, mas demorou um pouco."
+528,Macchiato,A melhor bebida que já experimentei!
+529,Mocha,"Sabor maravilhoso, com certeza voltarei."
+530,Café Expresso,O café estava amargo demais para o meu gosto.
+531,Café com Leite,"Sabor suave, perfeito para a manhã."
+532,Café Gelado,"Muito quente, quase queimei a língua."
+533,Latte,A melhor bebida que já experimentei!
+534,Americano,"Sabor suave, perfeito para a manhã."
+535,Flat White,A qualidade do leite estava excelente.
+536,Café Gelado,O café estava amargo demais para o meu gosto.
+537,Café com Leite,A qualidade do leite estava excelente.
+538,Latte,"Sabor maravilhoso, com certeza voltarei."
+539,Flat White,"Amei o sabor, mas demorou um pouco."
+540,Macchiato,"Muito quente, quase queimei a língua."
+541,Macchiato,"Amei o sabor, mas demorou um pouco."
+542,Café Expresso,"Sabor suave, perfeito para a manhã."
+543,Flat White,"Muito bom, mas poderia ser mais forte."
+544,Café com Leite,"Sabor suave, perfeito para a manhã."
+545,Cappuccino,A melhor bebida que já experimentei!
+546,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+547,Frappuccino,"Sabor maravilhoso, com certeza voltarei."
+548,Latte,"Amei o sabor, mas demorou um pouco."
+549,Café com Leite,"Muito quente, quase queimei a língua."
+550,Café Expresso,"Amei o sabor, mas demorou um pouco."
+551,Latte,O café estava amargo demais para o meu gosto.
+552,Mocha,"Amei o sabor, mas demorou um pouco."
+553,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+554,Café com Leite,O café estava amargo demais para o meu gosto.
+555,Latte,"Muito bom, mas poderia ser mais forte."
+556,Cappuccino,"Muito quente, quase queimei a língua."
+557,Café com Leite,"Muito bom, mas poderia ser mais forte."
+558,Flat White,O café estava amargo demais para o meu gosto.
+559,Mocha,A melhor bebida que já experimentei!
+560,Café Expresso,"Muito bom, mas poderia ser mais forte."
+561,Café com Leite,A qualidade do leite estava excelente.
+562,Macchiato,"Muito quente, quase queimei a língua."
+563,Café Expresso,A qualidade do leite estava excelente.
+564,Flat White,"Refrescante, mas poderia ser mais doce."
+565,Flat White,"Sabor maravilhoso, com certeza voltarei."
+566,Frappuccino,"Muito quente, quase queimei a língua."
+567,Café com Leite,"Muito quente, quase queimei a língua."
+568,Café com Leite,A melhor bebida que já experimentei!
+569,Flat White,"Muito bom, mas poderia ser mais forte."
+570,Mocha,O café estava amargo demais para o meu gosto.
+571,Mocha,"Muito bom, mas poderia ser mais forte."
+572,Americano,"Amei o sabor, mas demorou um pouco."
+573,Macchiato,"Sabor suave, perfeito para a manhã."
+574,Latte,"Amei o sabor, mas demorou um pouco."
+575,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+576,Latte,"Muito bom, mas poderia ser mais forte."
+577,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+578,Americano,A melhor bebida que já experimentei!
+579,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+580,Mocha,"Amei o sabor, mas demorou um pouco."
+581,Cappuccino,"Muito quente, quase queimei a língua."
+582,Americano,"Ótimo sabor, mas a espuma estava rala."
+583,Café Expresso,"Muito bom, mas poderia ser mais forte."
+584,Mocha,A qualidade do leite estava excelente.
+585,Frappuccino,A qualidade do leite estava excelente.
+586,Café Gelado,"Refrescante, mas poderia ser mais doce."
+587,Americano,A qualidade do leite estava excelente.
+588,Americano,"Ótimo sabor, mas a espuma estava rala."
+589,Latte,A melhor bebida que já experimentei!
+590,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+591,Mocha,"Sabor maravilhoso, com certeza voltarei."
+592,Café Gelado,"Sabor suave, perfeito para a manhã."
+593,Macchiato,"Amei o sabor, mas demorou um pouco."
+594,Americano,"Amei o sabor, mas demorou um pouco."
+595,Café Gelado,A qualidade do leite estava excelente.
+596,Latte,"Amei o sabor, mas demorou um pouco."
+597,Flat White,O café estava amargo demais para o meu gosto.
+598,Macchiato,A melhor bebida que já experimentei!
+599,Mocha,"Sabor suave, perfeito para a manhã."
+600,Cappuccino,"Muito bom, mas poderia ser mais forte."
+601,Café com Leite,"Muito bom, mas poderia ser mais forte."
+602,Frappuccino,A melhor bebida que já experimentei!
+603,Macchiato,A melhor bebida que já experimentei!
+604,Mocha,"Muito bom, mas poderia ser mais forte."
+605,Americano,"Muito quente, quase queimei a língua."
+606,Café com Leite,"Amei o sabor, mas demorou um pouco."
+607,Frappuccino,"Muito bom, mas poderia ser mais forte."
+608,Cappuccino,A qualidade do leite estava excelente.
+609,Café Expresso,"Muito bom, mas poderia ser mais forte."
+610,Café Expresso,"Amei o sabor, mas demorou um pouco."
+611,Frappuccino,"Refrescante, mas poderia ser mais doce."
+612,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+613,Café com Leite,"Muito quente, quase queimei a língua."
+614,Latte,"Amei o sabor, mas demorou um pouco."
+615,Cappuccino,"Amei o sabor, mas demorou um pouco."
+616,Frappuccino,"Refrescante, mas poderia ser mais doce."
+617,Cappuccino,"Sabor suave, perfeito para a manhã."
+618,Café com Leite,A melhor bebida que já experimentei!
+619,Café Expresso,"Refrescante, mas poderia ser mais doce."
+620,Americano,"Muito quente, quase queimei a língua."
+621,Café com Leite,"Muito quente, quase queimei a língua."
+622,Café Expresso,"Muito bom, mas poderia ser mais forte."
+623,Mocha,"Muito bom, mas poderia ser mais forte."
+624,Mocha,"Sabor suave, perfeito para a manhã."
+625,Flat White,"Muito quente, quase queimei a língua."
+626,Café Gelado,"Muito bom, mas poderia ser mais forte."
+627,Café com Leite,"Muito bom, mas poderia ser mais forte."
+628,Flat White,"Sabor maravilhoso, com certeza voltarei."
+629,Macchiato,"Sabor suave, perfeito para a manhã."
+630,Latte,"Sabor maravilhoso, com certeza voltarei."
+631,Mocha,"Sabor maravilhoso, com certeza voltarei."
+632,Frappuccino,"Sabor maravilhoso, com certeza voltarei."
+633,Flat White,"Sabor suave, perfeito para a manhã."
+634,Americano,"Refrescante, mas poderia ser mais doce."
+635,Café com Leite,A melhor bebida que já experimentei!
+636,Flat White,"Muito bom, mas poderia ser mais forte."
+637,Café com Leite,"Muito quente, quase queimei a língua."
+638,Latte,"Ótimo sabor, mas a espuma estava rala."
+639,Frappuccino,"Muito quente, quase queimei a língua."
+640,Frappuccino,"Sabor suave, perfeito para a manhã."
+641,Mocha,"Ótimo sabor, mas a espuma estava rala."
+642,Mocha,"Ótimo sabor, mas a espuma estava rala."
+643,Americano,"Refrescante, mas poderia ser mais doce."
+644,Macchiato,A melhor bebida que já experimentei!
+645,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+646,Café Expresso,O café estava amargo demais para o meu gosto.
+647,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+648,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+649,Café Gelado,"Refrescante, mas poderia ser mais doce."
+650,Americano,O café estava amargo demais para o meu gosto.
+651,Café Gelado,A melhor bebida que já experimentei!
+652,Cappuccino,"Refrescante, mas poderia ser mais doce."
+653,Frappuccino,"Muito quente, quase queimei a língua."
+654,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+655,Macchiato,A melhor bebida que já experimentei!
+656,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+657,Flat White,"Muito bom, mas poderia ser mais forte."
+658,Flat White,A melhor bebida que já experimentei!
+659,Cappuccino,"Refrescante, mas poderia ser mais doce."
+660,Americano,"Refrescante, mas poderia ser mais doce."
+661,Latte,"Muito bom, mas poderia ser mais forte."
+662,Frappuccino,A melhor bebida que já experimentei!
+663,Americano,"Muito bom, mas poderia ser mais forte."
+664,Flat White,O café estava amargo demais para o meu gosto.
+665,Macchiato,"Muito bom, mas poderia ser mais forte."
+666,Mocha,O café estava amargo demais para o meu gosto.
+667,Macchiato,"Sabor suave, perfeito para a manhã."
+668,Mocha,A qualidade do leite estava excelente.
+669,Cappuccino,"Sabor suave, perfeito para a manhã."
+670,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+671,Café Gelado,A qualidade do leite estava excelente.
+672,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+673,Café com Leite,A qualidade do leite estava excelente.
+674,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+675,Mocha,O café estava amargo demais para o meu gosto.
+676,Americano,"Muito bom, mas poderia ser mais forte."
+677,Cappuccino,O café estava amargo demais para o meu gosto.
+678,Americano,"Ótimo sabor, mas a espuma estava rala."
+679,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+680,Flat White,"Refrescante, mas poderia ser mais doce."
+681,Café Expresso,"Muito quente, quase queimei a língua."
+682,Café Gelado,"Refrescante, mas poderia ser mais doce."
+683,Americano,"Muito quente, quase queimei a língua."
+684,Macchiato,"Refrescante, mas poderia ser mais doce."
+685,Flat White,"Sabor maravilhoso, com certeza voltarei."
+686,Café Gelado,"Muito bom, mas poderia ser mais forte."
+687,Latte,"Amei o sabor, mas demorou um pouco."
+688,Café Expresso,O café estava amargo demais para o meu gosto.
+689,Flat White,A qualidade do leite estava excelente.
+690,Cappuccino,"Sabor suave, perfeito para a manhã."
+691,Café Gelado,O café estava amargo demais para o meu gosto.
+692,Frappuccino,"Refrescante, mas poderia ser mais doce."
+693,Mocha,"Muito quente, quase queimei a língua."
+694,Macchiato,A melhor bebida que já experimentei!
+695,Latte,"Sabor maravilhoso, com certeza voltarei."
+696,Americano,"Sabor suave, perfeito para a manhã."
+697,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+698,Café Expresso,"Amei o sabor, mas demorou um pouco."
+699,Café Expresso,"Refrescante, mas poderia ser mais doce."
+700,Macchiato,"Amei o sabor, mas demorou um pouco."
+701,Flat White,"Amei o sabor, mas demorou um pouco."
+702,Flat White,"Sabor maravilhoso, com certeza voltarei."
+703,Café Expresso,"Muito bom, mas poderia ser mais forte."
+704,Café Expresso,"Muito quente, quase queimei a língua."
+705,Americano,"Amei o sabor, mas demorou um pouco."
+706,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+707,Frappuccino,O café estava amargo demais para o meu gosto.
+708,Mocha,"Muito bom, mas poderia ser mais forte."
+709,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+710,Mocha,"Muito quente, quase queimei a língua."
+711,Café Expresso,"Refrescante, mas poderia ser mais doce."
+712,Mocha,"Muito bom, mas poderia ser mais forte."
+713,Café Gelado,"Refrescante, mas poderia ser mais doce."
+714,Café com Leite,"Muito bom, mas poderia ser mais forte."
+715,Flat White,A qualidade do leite estava excelente.
+716,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+717,Macchiato,O café estava amargo demais para o meu gosto.
+718,Café Expresso,A qualidade do leite estava excelente.
+719,Café com Leite,"Refrescante, mas poderia ser mais doce."
+720,Flat White,"Muito quente, quase queimei a língua."
+721,Café Gelado,"Refrescante, mas poderia ser mais doce."
+722,Americano,"Ótimo sabor, mas a espuma estava rala."
+723,Frappuccino,O café estava amargo demais para o meu gosto.
+724,Mocha,"Muito bom, mas poderia ser mais forte."
+725,Frappuccino,O café estava amargo demais para o meu gosto.
+726,Café com Leite,"Sabor suave, perfeito para a manhã."
+727,Café Expresso,O café estava amargo demais para o meu gosto.
+728,Café Expresso,"Sabor suave, perfeito para a manhã."
+729,Café com Leite,A melhor bebida que já experimentei!
+730,Macchiato,A melhor bebida que já experimentei!
+731,Macchiato,A qualidade do leite estava excelente.
+732,Mocha,"Amei o sabor, mas demorou um pouco."
+733,Latte,"Ótimo sabor, mas a espuma estava rala."
+734,Cappuccino,"Amei o sabor, mas demorou um pouco."
+735,Café Gelado,"Refrescante, mas poderia ser mais doce."
+736,Latte,"Muito bom, mas poderia ser mais forte."
+737,Frappuccino,"Refrescante, mas poderia ser mais doce."
+738,Café Expresso,"Amei o sabor, mas demorou um pouco."
+739,Café Gelado,"Sabor suave, perfeito para a manhã."
+740,Café com Leite,"Amei o sabor, mas demorou um pouco."
+741,Café Gelado,O café estava amargo demais para o meu gosto.
+742,Latte,A qualidade do leite estava excelente.
+743,Café Gelado,"Sabor suave, perfeito para a manhã."
+744,Mocha,"Muito bom, mas poderia ser mais forte."
+745,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+746,Latte,"Sabor maravilhoso, com certeza voltarei."
+747,Latte,"Sabor maravilhoso, com certeza voltarei."
+748,Frappuccino,"Sabor suave, perfeito para a manhã."
+749,Americano,"Muito bom, mas poderia ser mais forte."
+750,Café Expresso,A qualidade do leite estava excelente.
+751,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+752,Frappuccino,A melhor bebida que já experimentei!
+753,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+754,Macchiato,A melhor bebida que já experimentei!
+755,Cappuccino,A melhor bebida que já experimentei!
+756,Mocha,"Amei o sabor, mas demorou um pouco."
+757,Macchiato,"Refrescante, mas poderia ser mais doce."
+758,Café Expresso,"Sabor suave, perfeito para a manhã."
+759,Latte,"Sabor suave, perfeito para a manhã."
+760,Americano,"Muito bom, mas poderia ser mais forte."
+761,Latte,A melhor bebida que já experimentei!
+762,Café Gelado,O café estava amargo demais para o meu gosto.
+763,Café Gelado,A melhor bebida que já experimentei!
+764,Mocha,"Muito bom, mas poderia ser mais forte."
+765,Café Gelado,"Amei o sabor, mas demorou um pouco."
+766,Flat White,"Muito quente, quase queimei a língua."
+767,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+768,Café Gelado,A melhor bebida que já experimentei!
+769,Americano,O café estava amargo demais para o meu gosto.
+770,Frappuccino,O café estava amargo demais para o meu gosto.
+771,Café com Leite,A qualidade do leite estava excelente.
+772,Frappuccino,"Sabor maravilhoso, com certeza voltarei."
+773,Café Gelado,"Muito quente, quase queimei a língua."
+774,Café com Leite,"Sabor suave, perfeito para a manhã."
+775,Café Expresso,"Amei o sabor, mas demorou um pouco."
+776,Macchiato,O café estava amargo demais para o meu gosto.
+777,Macchiato,A melhor bebida que já experimentei!
+778,Americano,"Sabor maravilhoso, com certeza voltarei."
+779,Macchiato,"Refrescante, mas poderia ser mais doce."
+780,Cappuccino,"Muito bom, mas poderia ser mais forte."
+781,Frappuccino,A qualidade do leite estava excelente.
+782,Frappuccino,"Muito bom, mas poderia ser mais forte."
+783,Cappuccino,A melhor bebida que já experimentei!
+784,Café com Leite,"Muito quente, quase queimei a língua."
+785,Latte,A melhor bebida que já experimentei!
+786,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+787,Cappuccino,"Amei o sabor, mas demorou um pouco."
+788,Café Gelado,"Refrescante, mas poderia ser mais doce."
+789,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+790,Americano,A qualidade do leite estava excelente.
+791,Cappuccino,"Muito quente, quase queimei a língua."
+792,Americano,"Muito bom, mas poderia ser mais forte."
+793,Mocha,"Sabor suave, perfeito para a manhã."
+794,Flat White,"Amei o sabor, mas demorou um pouco."
+795,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+796,Café Gelado,"Sabor suave, perfeito para a manhã."
+797,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+798,Café Expresso,"Amei o sabor, mas demorou um pouco."
+799,Americano,"Muito quente, quase queimei a língua."
+800,Flat White,A melhor bebida que já experimentei!
+801,Frappuccino,"Amei o sabor, mas demorou um pouco."
+802,Flat White,"Amei o sabor, mas demorou um pouco."
+803,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+804,Cappuccino,"Muito quente, quase queimei a língua."
+805,Flat White,"Muito bom, mas poderia ser mais forte."
+806,Latte,O café estava amargo demais para o meu gosto.
+807,Cappuccino,A qualidade do leite estava excelente.
+808,Macchiato,A melhor bebida que já experimentei!
+809,Café Expresso,"Refrescante, mas poderia ser mais doce."
+810,Latte,A melhor bebida que já experimentei!
+811,Frappuccino,"Muito quente, quase queimei a língua."
+812,Americano,"Muito quente, quase queimei a língua."
+813,Café Expresso,"Sabor suave, perfeito para a manhã."
+814,Café Expresso,"Muito quente, quase queimei a língua."
+815,Café Gelado,A qualidade do leite estava excelente.
+816,Frappuccino,A qualidade do leite estava excelente.
+817,Café com Leite,"Amei o sabor, mas demorou um pouco."
+818,Americano,"Amei o sabor, mas demorou um pouco."
+819,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+820,Café com Leite,"Refrescante, mas poderia ser mais doce."
+821,Café Gelado,"Sabor suave, perfeito para a manhã."
+822,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+823,Cappuccino,"Muito quente, quase queimei a língua."
+824,Café com Leite,"Muito bom, mas poderia ser mais forte."
+825,Frappuccino,"Refrescante, mas poderia ser mais doce."
+826,Americano,"Muito quente, quase queimei a língua."
+827,Flat White,O café estava amargo demais para o meu gosto.
+828,Mocha,"Sabor suave, perfeito para a manhã."
+829,Café Expresso,A melhor bebida que já experimentei!
+830,Latte,O café estava amargo demais para o meu gosto.
+831,Café Expresso,"Amei o sabor, mas demorou um pouco."
+832,Café Gelado,A melhor bebida que já experimentei!
+833,Cappuccino,"Muito quente, quase queimei a língua."
+834,Frappuccino,A melhor bebida que já experimentei!
+835,Macchiato,"Muito bom, mas poderia ser mais forte."
+836,Mocha,"Ótimo sabor, mas a espuma estava rala."
+837,Frappuccino,"Sabor maravilhoso, com certeza voltarei."
+838,Frappuccino,A melhor bebida que já experimentei!
+839,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+840,Café Expresso,A melhor bebida que já experimentei!
+841,Mocha,"Sabor maravilhoso, com certeza voltarei."
+842,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+843,Flat White,"Amei o sabor, mas demorou um pouco."
+844,Café Expresso,"Muito bom, mas poderia ser mais forte."
+845,Americano,"Sabor suave, perfeito para a manhã."
+846,Café Expresso,A qualidade do leite estava excelente.
+847,Latte,"Sabor suave, perfeito para a manhã."
+848,Café Gelado,"Muito quente, quase queimei a língua."
+849,Latte,"Sabor suave, perfeito para a manhã."
+850,Flat White,A melhor bebida que já experimentei!
+851,Flat White,"Refrescante, mas poderia ser mais doce."
+852,Cappuccino,"Muito bom, mas poderia ser mais forte."
+853,Flat White,A melhor bebida que já experimentei!
+854,Macchiato,"Muito bom, mas poderia ser mais forte."
+855,Café Gelado,"Muito bom, mas poderia ser mais forte."
+856,Macchiato,O café estava amargo demais para o meu gosto.
+857,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+858,Americano,"Amei o sabor, mas demorou um pouco."
+859,Americano,"Ótimo sabor, mas a espuma estava rala."
+860,Latte,"Refrescante, mas poderia ser mais doce."
+861,Flat White,"Sabor maravilhoso, com certeza voltarei."
+862,Café com Leite,"Muito bom, mas poderia ser mais forte."
+863,Frappuccino,A qualidade do leite estava excelente.
+864,Café Gelado,"Amei o sabor, mas demorou um pouco."
+865,Flat White,A qualidade do leite estava excelente.
+866,Cappuccino,O café estava amargo demais para o meu gosto.
+867,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+868,Flat White,"Sabor suave, perfeito para a manhã."
+869,Macchiato,"Refrescante, mas poderia ser mais doce."
+870,Café Expresso,"Amei o sabor, mas demorou um pouco."
+871,Americano,O café estava amargo demais para o meu gosto.
+872,Macchiato,"Muito quente, quase queimei a língua."
+873,Latte,"Ótimo sabor, mas a espuma estava rala."
+874,Macchiato,"Sabor maravilhoso, com certeza voltarei."
+875,Mocha,"Muito quente, quase queimei a língua."
+876,Café Gelado,"Sabor suave, perfeito para a manhã."
+877,Cappuccino,A qualidade do leite estava excelente.
+878,Café Gelado,O café estava amargo demais para o meu gosto.
+879,Flat White,A melhor bebida que já experimentei!
+880,Macchiato,A melhor bebida que já experimentei!
+881,Frappuccino,"Muito quente, quase queimei a língua."
+882,Latte,O café estava amargo demais para o meu gosto.
+883,Mocha,"Amei o sabor, mas demorou um pouco."
+884,Frappuccino,"Sabor suave, perfeito para a manhã."
+885,Macchiato,"Muito bom, mas poderia ser mais forte."
+886,Macchiato,"Muito quente, quase queimei a língua."
+887,Americano,"Sabor suave, perfeito para a manhã."
+888,Mocha,"Refrescante, mas poderia ser mais doce."
+889,Café Expresso,"Muito quente, quase queimei a língua."
+890,Flat White,"Sabor suave, perfeito para a manhã."
+891,Latte,"Amei o sabor, mas demorou um pouco."
+892,Flat White,"Ótimo sabor, mas a espuma estava rala."
+893,Flat White,A melhor bebida que já experimentei!
+894,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+895,Café com Leite,"Sabor suave, perfeito para a manhã."
+896,Macchiato,"Muito quente, quase queimei a língua."
+897,Americano,A qualidade do leite estava excelente.
+898,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+899,Frappuccino,"Sabor suave, perfeito para a manhã."
+900,Cappuccino,"Muito bom, mas poderia ser mais forte."
+901,Mocha,"Muito bom, mas poderia ser mais forte."
+902,Americano,"Amei o sabor, mas demorou um pouco."
+903,Cappuccino,"Ótimo sabor, mas a espuma estava rala."
+904,Café Expresso,"Muito quente, quase queimei a língua."
+905,Macchiato,"Amei o sabor, mas demorou um pouco."
+906,Café Gelado,A melhor bebida que já experimentei!
+907,Latte,"Muito bom, mas poderia ser mais forte."
+908,Frappuccino,"Refrescante, mas poderia ser mais doce."
+909,Frappuccino,"Ótimo sabor, mas a espuma estava rala."
+910,Americano,"Refrescante, mas poderia ser mais doce."
+911,Cappuccino,"Ótimo sabor, mas a espuma estava rala."
+912,Café Expresso,A melhor bebida que já experimentei!
+913,Café Expresso,"Muito quente, quase queimei a língua."
+914,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+915,Cappuccino,"Muito quente, quase queimei a língua."
+916,Latte,"Refrescante, mas poderia ser mais doce."
+917,Frappuccino,"Muito bom, mas poderia ser mais forte."
+918,Flat White,"Sabor maravilhoso, com certeza voltarei."
+919,Cappuccino,"Muito quente, quase queimei a língua."
+920,Americano,"Sabor suave, perfeito para a manhã."
+921,Frappuccino,A qualidade do leite estava excelente.
+922,Café com Leite,"Amei o sabor, mas demorou um pouco."
+923,Latte,O café estava amargo demais para o meu gosto.
+924,Latte,"Ótimo sabor, mas a espuma estava rala."
+925,Flat White,"Amei o sabor, mas demorou um pouco."
+926,Cappuccino,"Ótimo sabor, mas a espuma estava rala."
+927,Café Expresso,"Sabor suave, perfeito para a manhã."
+928,Macchiato,A melhor bebida que já experimentei!
+929,Flat White,"Sabor maravilhoso, com certeza voltarei."
+930,Macchiato,O café estava amargo demais para o meu gosto.
+931,Frappuccino,"Amei o sabor, mas demorou um pouco."
+932,Mocha,"Ótimo sabor, mas a espuma estava rala."
+933,Latte,O café estava amargo demais para o meu gosto.
+934,Frappuccino,"Sabor suave, perfeito para a manhã."
+935,Café Expresso,"Sabor maravilhoso, com certeza voltarei."
+936,Macchiato,"Ótimo sabor, mas a espuma estava rala."
+937,Cappuccino,"Refrescante, mas poderia ser mais doce."
+938,Café Expresso,"Amei o sabor, mas demorou um pouco."
+939,Cappuccino,"Muito quente, quase queimei a língua."
+940,Flat White,"Sabor suave, perfeito para a manhã."
+941,Latte,"Ótimo sabor, mas a espuma estava rala."
+942,Cappuccino,"Sabor maravilhoso, com certeza voltarei."
+943,Café Gelado,"Ótimo sabor, mas a espuma estava rala."
+944,Latte,"Sabor maravilhoso, com certeza voltarei."
+945,Americano,"Sabor maravilhoso, com certeza voltarei."
+946,Americano,"Sabor suave, perfeito para a manhã."
+947,Frappuccino,A qualidade do leite estava excelente.
+948,Café Expresso,"Sabor suave, perfeito para a manhã."
+949,Cappuccino,"Muito quente, quase queimei a língua."
+950,Mocha,"Ótimo sabor, mas a espuma estava rala."
+951,Mocha,O café estava amargo demais para o meu gosto.
+952,Frappuccino,"Muito bom, mas poderia ser mais forte."
+953,Café Expresso,O café estava amargo demais para o meu gosto.
+954,Café Expresso,"Ótimo sabor, mas a espuma estava rala."
+955,Macchiato,A qualidade do leite estava excelente.
+956,Flat White,"Muito bom, mas poderia ser mais forte."
+957,Café com Leite,"Sabor maravilhoso, com certeza voltarei."
+958,Café com Leite,O café estava amargo demais para o meu gosto.
+959,Macchiato,"Amei o sabor, mas demorou um pouco."
+960,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+961,Cappuccino,"Amei o sabor, mas demorou um pouco."
+962,Frappuccino,O café estava amargo demais para o meu gosto.
+963,Mocha,"Sabor suave, perfeito para a manhã."
+964,Frappuccino,"Refrescante, mas poderia ser mais doce."
+965,Latte,"Muito bom, mas poderia ser mais forte."
+966,Café Expresso,"Amei o sabor, mas demorou um pouco."
+967,Mocha,A qualidade do leite estava excelente.
+968,Flat White,"Sabor maravilhoso, com certeza voltarei."
+969,Café com Leite,A qualidade do leite estava excelente.
+970,Café Gelado,"Sabor maravilhoso, com certeza voltarei."
+971,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+972,Mocha,A melhor bebida que já experimentei!
+973,Latte,A qualidade do leite estava excelente.
+974,Americano,"Muito quente, quase queimei a língua."
+975,Café Expresso,A melhor bebida que já experimentei!
+976,Flat White,A qualidade do leite estava excelente.
+977,Latte,"Muito bom, mas poderia ser mais forte."
+978,Café Gelado,"Muito bom, mas poderia ser mais forte."
+979,Café Expresso,"Muito bom, mas poderia ser mais forte."
+980,Mocha,"Muito quente, quase queimei a língua."
+981,Cappuccino,O café estava amargo demais para o meu gosto.
+982,Americano,"Amei o sabor, mas demorou um pouco."
+983,Café Gelado,"Muito quente, quase queimei a língua."
+984,Latte,"Muito bom, mas poderia ser mais forte."
+985,Macchiato,A melhor bebida que já experimentei!
+986,Macchiato,"Amei o sabor, mas demorou um pouco."
+987,Café com Leite,"Ótimo sabor, mas a espuma estava rala."
+988,Macchiato,A qualidade do leite estava excelente.
+989,Café Expresso,A qualidade do leite estava excelente.
+990,Frappuccino,"Muito quente, quase queimei a língua."
+991,Latte,"Muito quente, quase queimei a língua."
+992,Café com Leite,A qualidade do leite estava excelente.
+993,Americano,"Ótimo sabor, mas a espuma estava rala."
+994,Café com Leite,A melhor bebida que já experimentei!
+995,Americano,A melhor bebida que já experimentei!
+996,Latte,"Ótimo sabor, mas a espuma estava rala."
+997,Latte,O café estava amargo demais para o meu gosto.
+998,Macchiato,"Muito bom, mas poderia ser mais forte."
+999,Cappuccino,A melhor bebida que já experimentei!
+1000,Café Gelado,O café estava amargo demais para o meu gosto.
