@@ -91,7 +91,11 @@ A análise revela que a maioria das bebidas recebeu avaliações positivas, espe
 
 ## Prints dos Resultados
 
-*tenho que Adicionar aqui os prints*
+![image.png](https://github.com/Danielmadr/Azure-SensitiveAnalysis-Learning/blob/main/assets/image.png)
+![image copy.png](https://github.com/Danielmadr/Azure-SensitiveAnalysis-Learning/blob/main/assets/image%20copy.png)
+![image copy 2.png](https://github.com/Danielmadr/Azure-SensitiveAnalysis-Learning/blob/main/assets/image%20copy%202.png)
+![image copy 3.png](https://github.com/Danielmadr/Azure-SensitiveAnalysis-Learning/blob/main/assets/image%20copy%203.png)
+![image copy 4.png](https://github.com/Danielmadr/Azure-SensitiveAnalysis-Learning/blob/main/assets/image%20copy%204.png)
 
 ## Como Executar o Projeto
 
