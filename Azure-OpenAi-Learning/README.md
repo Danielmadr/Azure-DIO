@@ -1,26 +1,34 @@
-O Copilot foi de fato muito bom e facil de usar pois bastou adcionar a imagem e escrever de forma natural oque eu gostaria que ele fizesse e o mesmo executou
+# Experiências com Azure OpenAI e GitHub Copilot
 
-fiz tres testes o primeiro passei a imagem abaixo
+Este repositório documenta os testes realizados utilizando o GitHub Copilot para transcrição e tradução de texto a partir de imagens. Abaixo estão os resultados de três testes distintos.
 
-/assets/transcriptText.png
+## Teste 1: Transcrição de Texto em Português
 
-apos carregar a imagem pedi para que o mesmo trancrevesse oque está na imagem e a resposta foi a transcrição perfeita em portugues de todo o conteudo
+Para o primeiro teste, utilizei a imagem abaixo:
 
-/assets/transcript.png
+![Texto](./inputs/TrancriptText.png)
 
-o segundo teste foi com a imagem abaixo
+Após carregar a imagem, solicitei ao Copilot que transcrevesse o texto contido na imagem. O resultado foi uma transcrição perfeita em português de todo o conteúdo.
 
-/assets/TranslateImage.md
+![Resultado da Transcrição](./assets/transcript.png)
 
-um teste em japones que que pedi para o copilote transcrever e traduzir para portugues o mesmo fez isso com muita eficiencia
+## Teste 2: Transcrição e Tradução de Texto em Japonês
 
-/assets/prompt.png
-/assets/awnser1.png
+No segundo teste, utilizei a imagem abaixo:
 
-o terceiro teste foi de transcrever um imagem que estava com letras não convecionais
+![Texto em Japonês](./inputs/TranslateImage.png)
 
-/assets/NonConventionalCharacteres.png
+Solicitei ao Copilot que transcrevesse e traduzisse o texto japonês para o português, o que foi feito com muita eficiência.
 
-as letras da imagems parecem ser recortadas de um jornal, nesta tarefa o copilot não conseguiu executar porem parece que o mesmo não executou por um bloqueio que provavelmete existe para que ele não possa traduzir captchas e fazer com que bots se passe por humanos
+![Prompt](./assets/prompt.png)
+![Resposta](./assets/awnser1.png)
 
-/assets/fail.png
+## Teste 3: Transcrição de Texto com Caracteres Não Convencionais
+
+Para o terceiro teste, utilizei a imagem abaixo, contendo texto com letras não convencionais, recortadas de um jornal:
+
+![Texto Não Convencional](./inputs/NonConventionalCharacteres.png)
+
+Neste teste, o Copilot não conseguiu executar a transcrição, possivelmente devido a um bloqueio existente para esse tipo de tarefa.
+
+![Falha](./assets/fail.png)
