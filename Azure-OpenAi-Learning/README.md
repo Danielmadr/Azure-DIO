@@ -1,6 +1,6 @@
-# Experiências com Azure OpenAI e GitHub Copilot
+# Experiências com Azure OpenAI e Copilot
 
-Este repositório documenta os testes realizados utilizando o GitHub Copilot para transcrição e tradução de texto a partir de imagens. Abaixo estão os resultados de três testes distintos.
+Este repositório documenta os testes realizados utilizando o Copilot para transcrição e tradução de texto a partir de imagens. Abaixo estão os resultados de três testes distintos.
 
 ## Teste 1: Transcrição de Texto em Português
 
